@@ -279,7 +279,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CrossCutting.Auth\CrossCutting.Auth.csproj">
-      <Project>{002ff274-3162-4339-bf35-f18d0ed2dd9c}</Project>
+      <Project>{8b883dc3-058f-4e7f-b6df-b302b4a0c69c}</Project>
       <Name>CrossCutting.Auth</Name>
     </ProjectReference>
     <ProjectReference Include="..\CrossCutting.IoC\CrossCutting.IoC.csproj">
